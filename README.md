@@ -1,4 +1,5 @@
 # Kickstarter_Analysis
+Findings from Kickstarter project data
 
 ### Table of Contents
 
